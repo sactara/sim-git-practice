@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+Hello Apple
+=======
+Hi Mango
+>>>>>>> child
